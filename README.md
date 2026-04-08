@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: facundo klotzpach
-- Vivo en rafael castillo
+- Vivo en Rafael Castillo
 
 
 ### Otra Información
